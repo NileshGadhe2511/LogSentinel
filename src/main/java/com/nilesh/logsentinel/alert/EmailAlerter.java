@@ -9,9 +9,9 @@ import java.util.Properties;
 
 
 public class EmailAlerter implements AlertManager {
-    private final String username = "gadhenilesh210@gmail.com"; // Your Gmail
-    private final String password = "uarrczpxiggckogd";   // NOT your login password
-    private final String recipient = "nileshgadhe999@gmail.com";
+    private final String username = "demo@gmail.com"; // Your Gmail
+    private final String password = "casacassacacsaac";   // NOT your login password
+    private final String recipient = "abc@gmail.com";
 
     @Override
     public void sendAlert(String keyword, String context) {
